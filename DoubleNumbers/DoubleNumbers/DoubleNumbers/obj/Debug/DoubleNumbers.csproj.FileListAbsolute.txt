@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\bin\Debug\DoubleNumbers.exe.config
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\bin\Debug\DoubleNumbers.exe
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\bin\Debug\DoubleNumbers.pdb
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\obj\Debug\DoubleNumbers.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\obj\Debug\DoubleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\obj\Debug\DoubleNumbers.exe
+C:\Users\vkuho\Desktop\Mentorship\DoubleNumbers\DoubleNumbers\DoubleNumbers\obj\Debug\DoubleNumbers.pdb

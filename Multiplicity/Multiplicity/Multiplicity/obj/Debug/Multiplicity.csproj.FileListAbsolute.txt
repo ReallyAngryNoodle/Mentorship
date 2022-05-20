@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\bin\Debug\Multiplicity.exe.config
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\bin\Debug\Multiplicity.exe
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\bin\Debug\Multiplicity.pdb
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\obj\Debug\Multiplicity.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\obj\Debug\Multiplicity.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\obj\Debug\Multiplicity.exe
+C:\Users\vkuho\Desktop\Mentorship\Multiplicity\Multiplicity\Multiplicity\obj\Debug\Multiplicity.pdb

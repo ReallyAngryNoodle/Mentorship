@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\bin\Debug\MinSubsequence.exe.config
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\bin\Debug\MinSubsequence.exe
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\bin\Debug\MinSubsequence.pdb
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\obj\Debug\MinSubsequence.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\obj\Debug\MinSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\obj\Debug\MinSubsequence.exe
+C:\Users\vkuho\Desktop\Mentorship\MinSubsequence\MinSubsequence\MinSubsequence\obj\Debug\MinSubsequence.pdb

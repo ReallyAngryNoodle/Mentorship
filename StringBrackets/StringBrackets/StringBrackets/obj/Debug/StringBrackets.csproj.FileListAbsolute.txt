@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\bin\Debug\StringBrackets.exe.config
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\bin\Debug\StringBrackets.exe
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\bin\Debug\StringBrackets.pdb
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\obj\Debug\StringBrackets.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\obj\Debug\StringBrackets.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\obj\Debug\StringBrackets.exe
+C:\Users\vkuho\Desktop\Mentorship\StringBrackets\StringBrackets\StringBrackets\obj\Debug\StringBrackets.pdb

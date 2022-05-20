@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\bin\Debug\Coin.exe.config
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\bin\Debug\Coin.exe
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\bin\Debug\Coin.pdb
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\obj\Debug\Coin.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\obj\Debug\Coin.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\obj\Debug\Coin.exe
+C:\Users\vkuho\Desktop\Mentorship\Coin\Coin\Coin\obj\Debug\Coin.pdb

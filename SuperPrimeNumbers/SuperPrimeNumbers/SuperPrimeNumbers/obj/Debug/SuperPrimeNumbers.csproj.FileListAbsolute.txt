@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\bin\Debug\SuperPrimeNumbers.exe.config
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\bin\Debug\SuperPrimeNumbers.exe
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\bin\Debug\SuperPrimeNumbers.pdb
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\obj\Debug\SuperPrimeNumbers.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\obj\Debug\SuperPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\obj\Debug\SuperPrimeNumbers.exe
+C:\Users\vkuho\Desktop\Mentorship\SuperPrimeNumbers\SuperPrimeNumbers\SuperPrimeNumbers\obj\Debug\SuperPrimeNumbers.pdb

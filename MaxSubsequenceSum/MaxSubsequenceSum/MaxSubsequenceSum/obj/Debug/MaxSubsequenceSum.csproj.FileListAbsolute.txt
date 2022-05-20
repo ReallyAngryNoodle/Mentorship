@@ -1,0 +1,7 @@
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\bin\Debug\MaxSubsequenceSum.exe.config
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\bin\Debug\MaxSubsequenceSum.exe
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\bin\Debug\MaxSubsequenceSum.pdb
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\obj\Debug\MaxSubsequenceSum.csprojAssemblyReference.cache
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\obj\Debug\MaxSubsequenceSum.csproj.CoreCompileInputs.cache
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\obj\Debug\MaxSubsequenceSum.exe
+C:\Users\vkuho\Desktop\Mentorship\MaxSubsequenceSum\MaxSubsequenceSum\MaxSubsequenceSum\obj\Debug\MaxSubsequenceSum.pdb
